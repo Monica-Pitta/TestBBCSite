@@ -9,7 +9,7 @@ public class Hook extends BaseUtil {
 
 	@Before
 	public void InitializeTest(Scenario scenario) {
-		Initialisation();
+		//Initialisation();
 	}
 
 	@After
